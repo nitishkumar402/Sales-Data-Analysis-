@@ -1,0 +1,6 @@
+{
+  "name": "SalesFlow Analytics",
+  "description": "Local-first Sales Data Analytics & Management platform with IndexedDB persistence, interactive analytics, Excel import/export, and PDF reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
